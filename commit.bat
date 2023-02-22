@@ -5,3 +5,5 @@ set /p msg = Commit Message:
 git add .
 git commit -m '%msg%'
 git push origin %branch%
+
+echo commit finished
