@@ -1,9 +1,10 @@
 @echo off
-for /f "delims=" %%a in ('git rev-parse --abbrev-ref HEAD') do set branch=%%a
-set /p msg = Commit Message: 
+
+set /p commit_message="Enter commit message: "
+echo Committing changes with message: %commit_message%
 
 git add .
-git commit -m '%msg%'
-git push origin %branch%
+git commit -m "%commit_message%"
+git push origin HEAD
 
-echo commit finished
+echo Changes pushed to origin.
