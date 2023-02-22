@@ -1,0 +1,90 @@
+
+THIS DESIGN SUCKS
+2 A 
+1 O * 8 
+3 I
+
+
+16 A = 16 AND Chips
+8 O = 2 OR chips
+24 I = 6 inverter chips
+
+24 chips 
+2 fucking breadboards for the win circuit
+
+
+THIS DESIGN SUCKS LESS
+5 A
+3 NO * 8
+1 O 
+
+40 A 
+24 No
+8 O
+
+10 AC
+6 NOC
+2 OC
+
+18 Chips
+2 fucking breadboard for the win circuit
+
+1 page both sides fs for stat
+
+
+~(A+B+C)
+
+2 3A
+1 NO
+1 O * 8
+1 2A
+
+16 3A
+8 3NO
+8 O
+8 2A
+
+6 3A
+3 3N
+2 O
+2 A
+
+13 Chips
+
+
+3 3A
+1 O
+1 A
+3 I
+
+24 3A
+8 O
+8 A
+24 I
+
+8 3Ac
+2 Oc
+2 Ac
+6 Ic
+
+18 Chips
+
+
+A B C
+D E F
+G H I
+
+
+ABC
+DEF
+GHI
+
+ADG
+BEH
+CFI
+
+AEI
+CEG
+
+
+
